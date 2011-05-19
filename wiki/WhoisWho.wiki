@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Contatti
+
+= Details =
+
+  * Francesco Ruffino: f.ruffino@gmail.com, francesco.ruffino@nice-software.com
+  * Pierpaolo Corso: ppcorso@gmail.com, corso@fisica.unipa.it
+  * Francesco Locunto: francesco.locunto@nice-software.com
+  * Luca Carrogu: luca.carrogu@nice-software.com
+  * ...
