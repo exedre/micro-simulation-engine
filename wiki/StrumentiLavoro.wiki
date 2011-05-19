@@ -6,6 +6,4 @@ Gli strumenti di lavoro del progetto
 
 = Details =
 
-  * Trac: http://trac.xed.it/mse/
-  * SVN: http://svn.xed.it/mse
-   
+  
